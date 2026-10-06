@@ -25,7 +25,7 @@
 
 6 年資深後端工程師，專注於**遊戲伺服器架構**、**金流支付整合**與 **DevOps 自動化**三大領域。
 
-曾以技術專案經理（TPM）身份，主導 **280 萬預算、歷時 8 個月**的線上娛樂城平台全週期交付，跨職能整合全遠端外包團隊（美術 / 企劃 / Unity 前端 / Pomelo 前端）。在前公司擔任後端組長期間，統籌後端與網頁兩大部門，從零建立支援高併發的分散式 Pomelo.js 遊戲伺服器架構，並推動全站 AWS 雲端遷移與 GitLab CI/CD 自動化部署流程。
+
 
 > **Note:** Most of my production work is under NDA. This GitHub reflects open personal projects and technical demos.
 > **備註：** 絕大多數商業專案受保密協議限制，此 GitHub 展示個人開源專案與技術展示。
